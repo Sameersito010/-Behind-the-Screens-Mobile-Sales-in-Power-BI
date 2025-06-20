@@ -30,7 +30,7 @@ Mobile Model	Model of the phone sold
 
 ________________________________________
 💼 Author
-Your Name
+Sam
 Data Enthusiast | Power BI Storyteller
-LinkedIn | GitHub
+https://github.com/Sameersito010/-Behind-the-Screens-Mobile-Sales-in-Power-BI
 
